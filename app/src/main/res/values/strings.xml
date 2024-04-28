@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Movie Task Cowlar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movies"><![CDATA[<font color="#674fa3">Movies</font> <font color="#674fa3">World</font>]]></string>
+    <string name="let_explore">LET\'S EXPLORE MOVIES WORLD</string>
+    <string name="loading_ad">Loading Ad...</string>
+    <string name="menu_home">Home</string>
+    <string name="hot">Favorite</string>
+    <string name="new_">Search</string>
+    <string name="account">Account</string>
+    <string name="vrCartoon">VR Cartoon</string>
+    <string name="settings">Setting</string>
+    <string name="languages">Language</string>
+    <string name="others">Others</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate us</string>
+    <string name="feedback">Feedback</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="vrlist">Vr Videos</string>
+    <string name="fav">Favorite</string>
+    <string name="watch">Watch</string>
+    <string name="favText">NO Item</string>
+
+    <string name="detail_release_date">Release Date</string>
+    <string name="detail_overview">Overview:</string>
+    <string name="detail_budget">Geners:</string>
+    <string name="detail_revenu">Revenue:</string>
+    <string name="detail_runtime">Overview</string>
+    <string name="detail_director">Director</string>
+    <string name="detail_writer">Writer</string>
+    <string name="detail_poster">Posters</string>
+    <string name="detail_Logos">Logos</string>
+    <string name="detail_backdrops">Backdrops</string>
+    <string name="seeall">SEE ALL</string>
+    <string name="youtube_api_key">AIzaSyB_lX5ifVoT5NJKAIJ859J7N5i3inUiSqE</string>
+    <string name="Search">Search</string>
+</resources>

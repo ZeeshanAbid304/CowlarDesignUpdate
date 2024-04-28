@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="graycoloruseekbar">#89938d</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="green">#f2fafd</color>
+
+    <color name="card1">#093550</color>
+    <color name="card2">#dbd9ca</color>
+    <color name="card3">#9cceb3</color>
+    <color name="card4">#f0c38c</color>
+    <color name="card5">#e3d78f</color>
+    <color name="card6">#c1ddf5</color>
+    <color name="card7">#eec1c8</color>
+    <color name="card8">#a9ded6</color>
+    <color name="card9">#dbd9ca</color>
+    <color name="textcolor">#008768</color>
+
+
+</resources>

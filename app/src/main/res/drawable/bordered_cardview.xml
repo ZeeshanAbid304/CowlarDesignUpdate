@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background -->
+    <item android:id="@android:id/background">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/black" />
+            <corners android:radius="@dimen/_20sdp" />
+        </shape>
+    </item>
+
+
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/transparent" />
+            <stroke
+                android:width="@dimen/_2sdp"
+            android:color="@color/green" />
+            <corners android:radius="@dimen/_20sdp" />
+        </shape>
+    </item>
+
+    <!-- Content (Your existing ImageView and TextView elements) -->
+</layer-list>
